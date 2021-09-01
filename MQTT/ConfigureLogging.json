@@ -1,0 +1,5 @@
+{
+  "logLevel": "Trace",
+  "logFileSizeLimitBytes": 34636833,
+  "logFileCountLimit": 31
+}

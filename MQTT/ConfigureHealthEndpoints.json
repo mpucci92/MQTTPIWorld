@@ -1,0 +1,6 @@
+[{
+    "Id": "OCS",
+    "Endpoint": "https://staging.osipi.com/api/v1/Tenants/1c19ad52-55cb-4f65-8953-74ea56317ce2/Namespaces/AMER/omf",
+	"ClientId": "84df3f3f-5a19-42b0-ac0f-d5ad8c8e8331",
+    "ClientSecret": "kUhKGTSj8qoNRhFcezerc9M5mcCx51UUfj/qnD7/rxk="
+}]

@@ -1,0 +1,13 @@
+{
+    "StreamIdPrefix" : null,
+    "DefaultStreamIdPattern" : "{Topic}.{ValueField}",
+    "HostNameOrIpAddress" : "localhost",
+    "Port" : 1883,
+    "Protocol" : "Tcp",
+	 "TLS" : "none",
+    "UserName": null,
+    "Password": null,
+    "ClientId" : "MQTT-Client-01",
+	"validateServerCertificate": false,
+    "MQTTVersion" : "3.1.1"	
+}

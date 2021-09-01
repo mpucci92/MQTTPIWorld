@@ -1,0 +1,10 @@
+[
+    {
+        "ComponentId": "Mqtt1",
+        "ComponentType": "MQTT"
+    },
+    {
+        "ComponentId": "OmfEgress",
+        "ComponentType": "OmfEgress"
+     }
+]
