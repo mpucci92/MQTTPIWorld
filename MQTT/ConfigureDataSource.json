@@ -1,6 +1,6 @@
 {
-    "StreamIdPrefix" : null,
-    "DefaultStreamIdPattern" : "{Topic}.{ValueField}",
+    "StreamIdPrefix" : "mpucci-",
+    "DefaultStreamIdPattern" : ".Topic[6:]+'.'+.ValueField[2:]",
     "HostNameOrIpAddress" : "localhost",
     "Port" : 1883,
     "Protocol" : "Tcp",

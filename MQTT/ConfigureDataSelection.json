@@ -1,102 +1,772 @@
 [
-{"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 103", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 110", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 106", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Longitude", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 104", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 105", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Engine_Load", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 109", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Ground_Speed", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 101", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Engine_RPM", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Ground_Speed", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Longitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 108", "ValueField": "$.Latitude", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Engine_Load", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Engine_RPM", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Ground_Speed", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Longitude", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 102", "ValueField": "$.Latitude", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Aftercooler_Temperature", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Brake_Air_Pressure", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Engine_Coolant_Temperature", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Engine_Fuel_Rate", "DataType": "Double"},
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Engine_Load", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Engine_Oil_Pressure", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Engine_RPM", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Ground_Speed", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Longitude", "DataType": "Double"}, 
- {"selected": true, "Topic": "fleet/Truck 107", "ValueField": "$.Latitude", "DataType": "Double"}
- ]
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 101.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 102.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 103.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 104.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 105.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 106.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 107.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 108.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 109.Status"
+  },
+   {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Status",
+    "DataType": "String",
+    "StreamId": "Truck 110.Status"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 103",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 103.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 110",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 110.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 106",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 106.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 104",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 104.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 105",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 105.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 109",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 109.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 101",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 101.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 108",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 108.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 102",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 102.Latitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Aftercooler_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Aftercooler_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Brake_Air_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Brake_Air_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Engine_Coolant_Temperature",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Engine_Coolant_Temperature"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Engine_Fuel_Rate",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Engine_Fuel_Rate"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Engine_Load",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Engine_Load"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Engine_Oil_Pressure",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Engine_Oil_Pressure"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Engine_RPM",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Engine_RPM"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Ground_Speed",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Ground_Speed"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Longitude",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Longitude"
+  },
+  {
+    "selected": true,
+    "Topic": "fleet/Truck 107",
+    "ValueField": "$.Latitude",
+    "DataType": "Double",
+    "StreamId": "Truck 107.Latitude"
+  }
+]
