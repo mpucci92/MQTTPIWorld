@@ -49,6 +49,9 @@ if __name__ == "__main__":
                        'Brake Air Pressure', 'Engine Coolant Temperature', 'Engine Fuel Rate', 'Engine Load',
                        'Engine Oil Pressure', 'Engine RPM', 'Ground Speed', 'Longitude', 'Latitude']
 
+    truck_status = ['Running', 'Running', 'Running', 'Running', 'Running', 'Running',
+                    'Running', 'Under Maintenance', 'Under Maintenance', 'Stopped']
+
     df = loadData(path_to_data, encoding, delimiter)
     df = df.loc[:, columns_to_keep]
     df = cleanData(df)
@@ -63,6 +66,7 @@ if __name__ == "__main__":
             for prop in list_of_properties:
                 topic = topic_constant + topic_delimiter + asset
                 dictionary[prop] = np.random.choice(df[df['Haul Truck Template'] == asset][prop])
+                dictionary['Status'] = np.random.choice(truck_status)
             try:
                 publish.single(topic, str(dictionary), hostname=hostname_broker)
             except Exception as e:
