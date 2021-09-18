@@ -18,3 +18,6 @@ Prerequisites:
  * `MQTT_DataSimulator_v3.ipynb`: This file is the jupyter lab version of the data simulator. 
  * `FleetDataOCS.csv`: This file is a CSV sample data file which is the input to the data simulator. 
 
+PI Adapter for MQTT Architecture
+
+![image](https://user-images.githubusercontent.com/42786192/133898063-13fdce7c-171b-496b-878e-b8c4b04447bc.png)
